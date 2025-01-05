@@ -6,8 +6,9 @@ Welcome to my collection of Simple Python Projects! This repository contains sev
 
 - **Dice Rolling Simulator**: Simulate rolling dice.
 - **Number Guessing Game**: Guess the number the computer is thinking of.
-- **QR Code Generator**: Generate QR codes for URLs or text.
 - **Rock Paper Scissors Game**: Play Rock, Paper, Scissors against the computer.
+- **QR Code Generator**: Generate QR codes for URLs or text.
+
 
 ## Technologies Used
 
